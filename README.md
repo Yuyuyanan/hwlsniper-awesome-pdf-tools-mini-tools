@@ -23,3 +23,6 @@ Open a PR to add more tools!
 
 ## License
 CC0 1.0 Universal
+
+### Browser-Based
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) — Free browser-based PDF tools: compress, merge, split, convert. 100% private, files never uploaded.
